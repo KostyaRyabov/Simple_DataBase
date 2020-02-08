@@ -1,0 +1,14 @@
+C:\Users\KoRy3\source\repos\CSDB\lab\bin\Debug\lab.exe.config
+C:\Users\KoRy3\source\repos\CSDB\lab\bin\Debug\lab.exe
+C:\Users\KoRy3\source\repos\CSDB\lab\bin\Debug\lab.pdb
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab.csprojAssemblyReference.cache
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\MainWindow.g.cs
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\App.g.cs
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab_MarkupCompile.cache
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab_MarkupCompile.lref
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\MainWindow.baml
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab.g.resources
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab.Properties.Resources.resources
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab.exe
+C:\Users\KoRy3\source\repos\CSDB\lab\obj\Debug\lab.pdb
